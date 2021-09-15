@@ -1,4 +1,4 @@
 <?php
-echo "Hello Tamilselvan ";
+echo "Hello Tamilselvan";
 
 ?>
